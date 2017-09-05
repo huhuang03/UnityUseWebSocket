@@ -1,12 +1,40 @@
-﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MainScript.cs">
+﻿<Properties StartupConfiguration="{120B787F-13B6-1B85-39B3-5F29DA2F4332}|">
+  <MonoDevelop.Ide.ItemProperties.UnityUseWebSocket PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LobbyManager.cs">
     <Files>
-      <File FileName="Assets/MainScript.cs" Line="11" Column="33" />
+      <File FileName="Assets/MainScript.cs" Line="11" Column="16" />
+      <File FileName="Assets/LobbyManagerBck.cs" Line="26" Column="35" />
+      <File FileName="Assets/LobbyManager.cs" Line="41" Column="2" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityUseWebSocket" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="LobbyManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="UnityUseWebSocket" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="UnityUseWebSocket" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>
